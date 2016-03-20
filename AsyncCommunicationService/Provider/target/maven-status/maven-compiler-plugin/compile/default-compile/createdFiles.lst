@@ -1,0 +1,11 @@
+com\ifpb\pos\provider\channel\register\RegisterServiceImpl.class
+com\ifpb\pos\provider\Repository.class
+com\ifpb\pos\provider\channel\response\ResponseService.class
+com\ifpb\pos\provider\channel\process\ProcessService.class
+com\ifpb\pos\provider\channel\register\RegisterService.class
+com\ifpb\pos\client\Loader.class
+com\ifpb\pos\provider\channel\process\ProcessServiceImpl.class
+com\ifpb\pos\provider\ProviderPublisher.class
+com\ifpb\pos\provider\channel\process\ProcessServiceBackground$1.class
+com\ifpb\pos\provider\channel\response\ResponseServiceImpl.class
+com\ifpb\pos\provider\channel\process\ProcessServiceBackground.class
