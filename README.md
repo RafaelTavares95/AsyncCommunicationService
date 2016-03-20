@@ -1,5 +1,5 @@
 # AsyncCommunicationService
-Projeto didático sobre a os problemas que envolver comunicação assíncrona.
+Projeto didático sobre a os problemas que envolvem comunicação assíncrona.
 ****
 **Professor: Aristofânio Garcia de Araújo**</br>
 **Disciplina: Programação Orientada a Serviços**</br>
@@ -27,7 +27,9 @@ integridade transacional;
 - Em sistemas que exigem muitas requisições, será
 necessário ampliar os recursos para atender a
 diversas requisições concorrentes.
+
 ## Soluções ##
+
 1. Subdividir as operações em sub-operações mantendo
 todas sobre um gerenciador de transação
  - Vantagens:
