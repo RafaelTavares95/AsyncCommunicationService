@@ -59,10 +59,12 @@ manutenção;
 cliente, requerendo que adote um estilo arquitetural
 baseado em eventos ou técnicas de recuperação secundária
 de mensagens, como **pulling**;
+
 ###Modelo de Solução###
 (Baseado na técnica de pulling)
 
 ![Solucao](https://github.com/RafaelTavares95/AsyncCommunicationService/blob/master/imagens/Solucao.png)
+
 ## Descrição do Exercício ##
 Uma determinada operação de um serviço web possui
 um tempo de processamento que varia muito (motivo não
