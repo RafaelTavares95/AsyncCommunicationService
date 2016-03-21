@@ -3,7 +3,7 @@ Projeto didático sobre a os problemas que envolvem comunicação assíncrona.
 ****
 **Professor: Aristofânio Garcia de Araújo**</br>
 **Disciplina: Programação Orientada a Serviços**</br>
-**IFPB-Campus Cajazeiras - Análise e Desenvolvimento de Sistemas**
+**IFPB-Campus Cajazeiras - Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas**
 ****	
 ## Problemática ##
 
